@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="725db606-c147-4787-8d78-332196086187" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Objects/Robot Number1/Scripts/PanelMovementR1ButtonHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Objects/Robot Number1/Scripts/PanelMainR1ButtonHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shared Scripts for Objects/GlobalVariables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shared Scripts for Objects/SpawnHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Objects/Robot Number4/Scripts/PanelMovementR4ButtonHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interaciton Scripts/VR_PhysicsPointer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Objects/Robot Number2/Scripts/PanelMovementR2ButtonHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interaciton Scripts/PointerEvent_UI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interaciton Scripts/ObjectMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interaciton Scripts/VR_Input.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interaciton Scripts/VR_CanvasPointer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interaciton Scripts/SpawningHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interaciton Scripts/PlayerMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Objects/Robot Number3/Scripts/PanelMovementR3ButtonHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TrackerAssignment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interaciton Scripts/PointerEvent_Objects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Interaction Prefabs/Main Menu/Scripts/DeviceStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CalibrationController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Interaction Prefabs/Main Menu/Scripts/PanelOptionsButtonHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interaciton Scripts/SwitchPointers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Interaction Prefabs/Main Menu/Scripts/PanelMainButtonHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefab/Interaction Prefabs/Main Menu/Scripts/PanelInventoryButtonHandler.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interaciton Scripts/VR_Input.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Interaction Prefabs/Main Menu/Scripts/PanelOptionsButtonHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Interaction Prefabs/Main Menu/Scripts/PanelInventoryButtonHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interaciton Scripts/ObjectMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interaciton Scripts/VR_CanvasPointer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CalibrationInputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CalibrationController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Unused/CalibrationInputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TrackerAssignment.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interaciton Scripts/SpawningHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Objects/Robot Number1/Scripts/PanelMovementR1ButtonHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Objects/Robot Number4/Scripts/PanelMovementR4ButtonHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Objects/Robot Number3/Scripts/PanelMovementR3ButtonHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefab/Objects/Robot Number2/Scripts/PanelMovementR2ButtonHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shared Scripts for Objects/GlobalVariables.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X1SDIk0PqdpVPJNXelG84qO7d0" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="725db606-c147-4787-8d78-332196086187" name="Default Changelist" comment="" />
+      <created>1580211987848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580211987848</updated>
+      <workItem from="1580211992797" duration="3781000" />
+      <workItem from="1580218292172" duration="8909000" />
+      <workItem from="1580227957063" duration="1053000" />
+      <workItem from="1580229100266" duration="300000" />
+      <workItem from="1580309739106" duration="7003000" />
+      <workItem from="1580385891395" duration="3977000" />
+      <workItem from="1582990313138" duration="1433000" />
+      <workItem from="1583250180037" duration="3485000" />
+      <workItem from="1583330319360" duration="1116000" />
+      <workItem from="1583597674208" duration="612000" />
+      <workItem from="1583616882334" duration="2909000" />
+      <workItem from="1583669773365" duration="7690000" />
+      <workItem from="1583685179846" duration="4348000" />
+      <workItem from="1584461842583" duration="600000" />
+      <workItem from="1601981901734" duration="206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Interaciton Scripts/VR_PhysicsPointer.cs</url>
+          <line>48</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Interaciton Scripts/VR_PhysicsPointer.cs" initialLine="48">
+            <startOffsets>
+              <option value="1590" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1591" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

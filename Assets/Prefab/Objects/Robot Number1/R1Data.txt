@@ -1,0 +1,9 @@
+xpos=adad
+ypos=adad
+zpos=adad
+xrot=dasd
+yrot=adad
+zrot=asda
+xsca=dada
+ysca=asdasd
+zsca=asdad
